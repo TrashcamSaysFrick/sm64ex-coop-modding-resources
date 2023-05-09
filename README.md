@@ -1,6 +1,6 @@
 ![sm64coop mod resource logo](https://github.com/TrashcamSaysFrick/sm64ex-coop-modding-resources/assets/90653075/e1b8bc34-fd5a-42d5-a69e-85f3500e8b04)
 # Welcome to sm64ex-coop Modding Resources!
-resources and that may help with the modding of sm64ex-coop!
+This is a github full of information for sm64ex-coop modding due to many people wondering how to do so. So, here are some resources that may help with the modding of sm64ex-coop!
 
 this page features tutorials that I find helpful for coop modding
 
@@ -12,6 +12,11 @@ DynOS models that replace mario may seem to be a daughnting task but when you le
 - Blender 3.2 or higher https://www.blender.org/
 - Fast64 https://github.com/Fast-64/fast64
 
-Once you got blender downloaded, install the fast 64 plugin by going to Edit/Prefrences/Add-ons/Install in blender and selecting your release version of fast 64, as you can see below.
+Once you got blender downloaded, install the Fast 64 plugin by going to Edit/Prefrences/Add-ons/Install in blender and selecting your release version of fast 64, as you can see below.
 
 ![blender 1](https://github.com/TrashcamSaysFrick/sm64ex-coop-modding-resources/assets/90653075/3b6ad543-176d-4723-b336-2c0f36b57046)
+
+Next, you want to turn on the Fast 64 plugin by scrolling down in add-ons and hitting the checkbox beside it.
+
+![blender 2](https://github.com/TrashcamSaysFrick/sm64ex-coop-modding-resources/assets/90653075/534394f5-28a7-44e6-93a9-bb3ba807be3d)
+
