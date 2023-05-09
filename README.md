@@ -39,3 +39,33 @@ Another thing that is important is eye states, which fznmeatpopsicle made a grea
 I'll also put their video here too: https://youtu.be/hsRK8mzbABg
 
 ## Exporting Mario
+
+Go to the SM64 Geolayout Exporter tab, select the custom export path. You'll want your path to be bin/dynos/packs/(insert-folder-of-your-dynos-here)
+
+It should look like this.
+
+![blender 3](https://github.com/TrashcamSaysFrick/sm64ex-coop-modding-resources/assets/90653075/fcf9a721-09d8-4306-8d50-26aec0769e9f)
+
+Select Mario's armature and press the Export Armature Geolayout button, if this works correctly, it will say sucess somewhere.
+
+![blender 4](https://github.com/TrashcamSaysFrick/sm64ex-coop-modding-resources/assets/90653075/3b60a177-5b1a-4f93-92a7-7ecb917b2597)
+
+This should've created a folder called mario.
+
+![blender 5](https://github.com/TrashcamSaysFrick/sm64ex-coop-modding-resources/assets/90653075/f9abf387-9ee1-48ee-91ec-fb17bc5f30c8)
+
+Inside that mario folder there should be 3 files which are shown in the image below.
+
+![blender 6](https://github.com/TrashcamSaysFrick/sm64ex-coop-modding-resources/assets/90653075/5c8bef53-6161-48cb-9241-0a9aeb3f8030)
+
+## Building Your DynOS
+
+Simply open up your sm64ex-coop game and your dynos character should show.
+
+If not, Check to see if you have the pack on.
+
+## Recolorability
+
+THIS PART IS STILL UNDER CONSTRUCTION!!!
+
+
