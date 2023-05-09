@@ -11,3 +11,7 @@ DynOS models that replace mario may seem to be a daughnting task but when you le
 ### What you need!
 - Blender 3.2 or higher https://www.blender.org/
 - Fast64 https://github.com/Fast-64/fast64
+
+Once you got blender downloaded, install the fast 64 plugin by going to Edit/Prefrences/Add-ons/Install in blender and selecting your release version of fast 64, as you can see below.
+
+![blender 1](https://github.com/TrashcamSaysFrick/sm64ex-coop-modding-resources/assets/90653075/3b6ad543-176d-4723-b336-2c0f36b57046)
