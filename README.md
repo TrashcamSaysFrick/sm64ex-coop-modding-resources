@@ -20,3 +20,14 @@ Next, you want to turn on the Fast 64 plugin by scrolling down in add-ons and hi
 
 ![blender 2](https://github.com/TrashcamSaysFrick/sm64ex-coop-modding-resources/assets/90653075/534394f5-28a7-44e6-93a9-bb3ba807be3d)
 
+Now you'll need the mario.blend file you can get from the Fast 64 github, which can be found here: https://github.com/Fast-64/fast64/blob/main/mario.blend
+
+You'll now need a model to replace mario, I would suggest making an original model for this but placing an already existing model is ok with proper credit and permission (if possible provided) if released.
+
+I would explain how to slap a model on top of Mario but I find that KeyBlader Tutorials' tutorial on doing this is excellent and will help you figure this out.
+
+I'll put their video right here: https://youtu.be/D-ZQsYedBt8
+
+Another thing that is important is eye states, which fznmeatpopsicle made a great tutorial that'll show you how to do this.
+
+I'll also put their video here too: https://youtu.be/hsRK8mzbABg
