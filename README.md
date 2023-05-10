@@ -66,6 +66,12 @@ If not, Check to see if you have the pack on.
 
 ## Recolorability
 
-THIS PART IS STILL UNDER CONSTRUCTION!!!
+sm64ex-coop allows you to change the color pallet of your character by either using preset or costum color pallets.
+
+You can add this to your DynOS pack by making all or some of your model recolorable. 
+
+Here's the guide by AngelicMiracles: https://cdn.discordapp.com/attachments/755910307167076393/1037930270768238622/How_to_Add_Color_Support.png yeah it's png
+
+- Also you can also use CAP to get the color of Mario's cap!
 
 
