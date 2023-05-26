@@ -78,7 +78,15 @@ Here's the guide by AngelicMiracles: https://cdn.discordapp.com/attachments/7559
 
 This will replace the Mario head icon on the hud, simply go in to your dynos pack and make 2 new folders. They should be named like this bin/dynos/packs/textures/segment2/
 
-In you segment2 folder, create a 16 x 16 image titled as segment2.05A00.rgba16.png
+In you segment2 folder, create a 16 x 16 image 
+
+The title depends on what character it is for.
+
+  Mario: segment2.05A00.rgba16.png
+  Luigi: custom_luigi_head.rgba16.png
+  Toad: custom_toad_head.rgba16.png
+  Wario: custom_wario_head.rgba16.png
+  Waluigi: custom_waluigi_head.rgba16.png
 
 - though, the image can be larger than that, for example 32 x 32 or something like that
 
