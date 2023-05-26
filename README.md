@@ -85,6 +85,6 @@ In you segment2 folder, create a 16 x 16 image titled as segment2.05A00.rgba16.p
 Open up the game to compile this icon.
 
 ![under construction](https://github.com/TrashcamSaysFrick/sm64ex-coop-modding-resources/assets/90653075/e92a2c52-0ff5-40f7-b1f9-28f0664c243c)
-everything under here is under construction!
+Everything under here is still under construction!
 
 
