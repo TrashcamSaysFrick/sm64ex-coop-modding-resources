@@ -93,6 +93,6 @@ The title depends on what character it is for.
 Open up the game to compile this icon.
 
 ![under construction](https://github.com/TrashcamSaysFrick/sm64ex-coop-modding-resources/assets/90653075/e92a2c52-0ff5-40f7-b1f9-28f0664c243c)
-Everything under here is still under construction!
+Everything here is still under construction! Some info may be missing!
 
 
