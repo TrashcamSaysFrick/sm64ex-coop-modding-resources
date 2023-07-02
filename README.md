@@ -7,7 +7,7 @@ this page features tutorials that I find helpful for coop modding
 # Table of Contents
 
 - Dynos Packs
-https://github.com/TrashcamSaysFrick/sm64ex-coop-modding-resources/README.md#12
+https://github.com/TrashcamSaysFrick/sm64ex-coop-modding-resources/README.md#DynOS Player Models
 
 # DynOS Player Models
 DynOS models that replace mario may seem to be a daughnting task but when you learn the basics it's pretty simple!
