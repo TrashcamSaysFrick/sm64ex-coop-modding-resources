@@ -6,14 +6,15 @@ this page features tutorials that I find helpful for coop modding
 
 # Table of Contents
 
-- Dynos Packs
+- Character Models
 
-# DynOS Player Models
-DynOS models that replace mario may seem to be a daughnting task but when you learn the basics it's pretty simple!
+# Character Models
+Character models that replace Mario may seem to be a daughnting task but when you learn the basics it's pretty simple!
 
 ## What you need!
 - Blender 3.2 or higher https://www.blender.org/
 - Fast64 https://github.com/Fast-64/fast64
+- A PC
 
 ## Setting Up Blender and Fast 64
 
