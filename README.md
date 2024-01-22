@@ -13,7 +13,7 @@ Character models that replace Mario may seem to be a daughnting task but when yo
 
 ## What you need!
 - Blender 3.2 or higher https://www.blender.org/
-- Fast64 https://github.com/Fast-64/fast64
+- Fast64 https://github.com/coop-deluxe/fast64
 - A PC
 
 ## Setting Up Blender and Fast 64
@@ -28,7 +28,7 @@ Next, you want to turn on the Fast 64 plugin by scrolling down in add-ons and hi
 
 ## Getting Mario's Model
 
-Now you'll need the mario.blend file you can get from the Fast 64 github, which can be found here: https://github.com/Fast-64/fast64/blob/main/mario.blend
+Now you'll need the mario.blend file you can get from the Fast 64 github, which can be found here: https://github.com/coop-deluxe/character-template/releases/tag/template
 
 ## Replacing Mario's Model
 
