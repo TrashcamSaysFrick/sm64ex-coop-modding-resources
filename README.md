@@ -4,6 +4,12 @@ This is a github full of information for sm64ex-coop modding due to many people 
 
 this page features tutorials that I find helpful for coop modding
 
+# Little Update
+Super Kirby Lover has an amazingly well written tutorial you can refer to if you need some more upated and recent details.
+Here's the link to it: https://superkirbylover.me/?a=/journal/posts/2024/Jul-17
+
+Also I kinda need rebrand this to coopdx but that'll probably never happen, so anyway...
+
 # Table of Contents
 
 - Character Models
